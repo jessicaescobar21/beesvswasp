@@ -14,12 +14,12 @@ El objetivo de este proyecto es implementar una red neuronal convolucional y apl
 <p align=" justify">
   
   <ul>
-  <li> Resnet50_3_classes: Código de la implementación del modelo para las clases de abeja, avispa y otros insectos con data augmentation
-  <li> Resnet50_4_classes: Código de la implementación del modelo para las clases de abeja, avispa, otros insectos y otros no insectos con data augmentation
-  <li> data_aug_3_classes: Código de la implementación del data augmentation para las clases de abeja, avispa y otros insectos
-  <li> data_aug_4_classes: Código de la implementación del data augmentation para las clases de abeja, avispa, otros insectos y otros no insectos
-  <li> split_3_classes: Código de la implementación de la distribución de datos en train, test y validation para las clases de abeja, avispa y otros insectos
-  <li> split_4_classes: Código de la implementación de la distribución de datos en train, test y validation para las clases de abeja, avispa, otros insectos y otros no insectos
+  <li> <b> Resnet50_3_classes: </b> Código de la implementación del modelo para las clases de abeja, avispa y otros insectos con data augmentation
+  <li> <b> Resnet50_4_classes: </b> Código de la implementación del modelo para las clases de abeja, avispa, otros insectos y otros no insectos con data augmentation
+  <li> <b> data_aug_3_classes: </b> Código de la implementación del data augmentation para las clases de abeja, avispa y otros insectos
+  <li> <b> data_aug_4_classes: </b> Código de la implementación del data augmentation para las clases de abeja, avispa, otros insectos y otros no insectos
+  <li> <b> split_3_classes: </b> Código de la implementación de la distribución de datos en train, test y validation para las clases de abeja, avispa y otros insectos
+  <li> <b> split_4_classes: </b> Código de la implementación de la distribución de datos en train, test y validation para las clases de abeja, avispa, otros insectos y otros no insectos
   </ul> 
   
 </p>
