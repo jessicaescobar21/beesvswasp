@@ -1,8 +1,8 @@
 # “Bees or Wasp” Dataset Classification using CNN’s with Transfer Learning via Fine-tuning
 
-<center>
-![alt text](https://github.com/jessicaescobar21/beesvswasp/blob/main/banner.png)
-</center>
+<p align="center">
+  <img src="https://github.com/jessicaescobar21/beesvswasp/blob/main/banner.png" />
+</p>
 
 ## Objetivo: 
 
