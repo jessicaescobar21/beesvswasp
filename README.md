@@ -9,7 +9,7 @@ El objetivo de este proyecto es implementar una red neuronal convolucional y apl
 
 ## Enlace al video: https://www.youtube.com/watch?v=CPwG__ZsRB4
 
-## Detalles de los códigos: 
+## Descripción de los códigos: 
 
 <p align=" justify">
   
